@@ -1,1 +1,3 @@
 # AdventOfCode2021
+
+Each Day is saved as its own folder. Might become a mix of languages but I'm starting in Python. Hopefully I have time to finish this year...
