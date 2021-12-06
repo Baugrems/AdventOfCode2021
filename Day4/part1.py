@@ -107,7 +107,3 @@ for r in winner.matrix:
         if not sq.marked:
             sum += int(sq.value)
 print(sum * int(num))
-
-
-
-
